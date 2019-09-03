@@ -1,1 +1,2 @@
-# Inspektors
+# rainbow-repo
+Rainbow Repository
